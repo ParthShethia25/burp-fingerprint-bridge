@@ -1,0 +1,11 @@
+.gradle/
+build/
+__pycache__/
+python/__pycache__/
+*.pyc
+upstream-legacy-src/
+.venv/
+dist/
+*.log
+/META-INF/
+/native/
